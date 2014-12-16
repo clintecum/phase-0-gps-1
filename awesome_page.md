@@ -1,3 +1,6 @@
+  
+git commit -m "finished with changes"
+
   - git clone https://github.com/clintecum/phase-0-gps-1.git
 Clone repository to create local repo copy
 
@@ -28,4 +31,7 @@ Add file to stage so changes can be committed
   - git status
   Check status of file change states in repo
 
-  Hey a totally DIFFERENT change is happening right here. How about that? 
+
+
+  Hey this is my awesome change that I'm editing because of a conflict. Fun stuff!  
+
