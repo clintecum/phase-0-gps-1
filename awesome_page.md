@@ -27,3 +27,5 @@ Add file to stage so changes can be committed
 
   - git status
   Check status of file change states in repo
+
+  Hey a totally DIFFERENT change is happening right here. How about that? 
