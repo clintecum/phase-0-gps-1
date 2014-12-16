@@ -25,3 +25,5 @@ Add file to stage so changes can be committed
   -git checkout --help
   Read help information to learn about git checkout
 
+  - git status
+  Check status of file change states in repo
